@@ -3,7 +3,7 @@
   %head
     %meta{ charset: "utf-8" }/
     %meta{ content: "chrome=1", "http-equiv" => "X-UA-Compatible" }/
-    %title Beyond Spectacle by SubObjTec
+    %title Beyond Spectacle
     %link{ href: "stylesheets/styles.css", rel: "stylesheet" }/
     %link{ href: "stylesheets/github-light.css", rel: "stylesheet" }/
     %meta{ content: "width=device-width", name: "viewport" }/
@@ -12,54 +12,55 @@
   %body
     .wrapper
       %header
-        %h1 Beyond Spectacle
+        %h1
+          %a{ href: "/" }Beyond Spectacle
         %p
           Welcome to Beyond Spectacle, a hybrid conference/artist residency
-          activating the intellectual, artistic, and political legacy of the
-          Situationist International to address concerns of the present.
+          activating the intellectual, artistic, and activist legacy of
+          %a{ href: "https://en.wikipedia.org/wiki/Situationist_International",
+            target: "blank" }
+            The Situationist International
+          to address political concerns of the present.
       %section
-        %h2
-          %a#beyond-spectacle.anchor{ "aria-hidden" => "true",
-            href: "#beyond-spectacle" }>
-            %span.octicon.octicon-link{ "aria-hidden" => "true" }
-          Beyond Spectacle
         %p
-          Beyond Spectacle is a hybrid conference/artist residency on the
-          intellectual, artistic, and political legacy of
-          %a{ href: "https://en.wikipedia.org/wiki/Situationist_International" }
-            the Situationist International
-          and its relevance for the present.
-        %h3
-          %a#conference.anchor{ "aria-hidden" => "true", href: "#conference" }>
-            %span.octicon.octicon-link{ "aria-hidden" => "true"}
-          Conference
+          Beyond Spectacle is a collaborative project hosted jointly by
+          %a{ href: "http://www.sfu.ca/humanities-institute.html",
+            target: "blank" }
+            The Institute for the Humanities
+          at Simon Fraser University and
+          %a{ href: "http://cinevolutionmedia.com",
+            target: "blank" }
+            Cinevolution Media Arts Society.
+        %p
+          Celebrating the 50th anniversary of the publication of the key
+          Situationist texts, Guy Debord's
+          %i The Society of the Spectacle
+          and Raoul Vaneigem's
+          %i The Revolution of Everyday Life
+          as well as the 150th anniversary of the publication of the first
+          volume of
+          %i Capital
+          by Karl Marx, Beyond Spectacle will feature scholarly speaking
+          engagements, creation and exhibition of art works, film screenings,
+          and other events.
+        %p
+          Completely free and open to the public, Beyond
+          Spectacle will take place in Vancouver, British Columbia, Canada, in
+          April 2017.
         %h3
           %a#residency.anchor{ "aria-hidden" => "true", href: "#residency" }>
             %span.octicon.octicon-link{ "aria-hidden" => "true"}
           Residency
-      %footer
-        %p.view
-          %a{ href: "https://github.com/SubObjTec/beyond-spectacle" }
-            View the Project on GitHub
-            %small SubObjTec/beyond-spectacle
-        %ul
-          %li
-            %a{ href: "https://github.com/SubObjTec/beyond-spectacle/zipball/master" }
-              Download
-              %strong ZIP File
-          %li
-            %a{ href: "https://github.com/SubObjTec/beyond-spectacle/tarball/master" }
-              Download
-              %strong TAR Ball
-          %li
-            %a{ href: "https://github.com/SubObjTec/beyond-spectacle" }
-              View On
-              %strong GitHub
         %p
-          This project is maintained by
-          %a{ href: "https://github.com/SubObjTec" } SubObjTec
+          We are now accepting proposals for artistic projects. Please feel free
+          to circulate our
+          %a#cfp{ href: "/call-for-proposals" } Call for Proposals
+          widely.
+      %footer
         %p
           %small
-            Hosted on GitHub Pages — Theme by
-            %a{ href: "https://github.com/orderedlist" } orderedlist
+            This project is maintained by
+            %a{ href: "https://github.com/SubObjTec/beyond-spectacle",
+              target: "blank" }
+              SubObjTec
     %script{ src: "javascripts/scale.fix.js" }
