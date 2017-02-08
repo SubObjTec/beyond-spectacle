@@ -2,7 +2,7 @@
 title: Call for Proposals
 layout: default
 ---
-__*Submission deadline extended to February 10th!*__
+__*Submission deadline extended to 5pm, February 10th!*__
 
 **OPEN CALL FOR PROPOSALS**
 
@@ -59,13 +59,13 @@ website, which will also serve as a platform to present contributions.
 
 **Submission**
 
-__*Submission deadline extended to February 10th!*__
+__*Submission deadline extended to 5pm, February 10th!*__
 
 Submission should be email to
 [{{site.email}}](mailto:{{site.email}}) with the
 subject line: “Beyond Spectacle Residency”.
 
-Project proposals will be accepted until **February ~~7th~~ 10th, 2017.**
+Project proposals will be accepted until **5PM on February ~~7th~~ 10th, 2017.**
 Please include the following documentation (in French or English):
 
 1.  Applicant's name, e-mail address, telephone number, and mailing address.
