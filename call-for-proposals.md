@@ -9,11 +9,11 @@ __*Submission deadline extended to February 10th!*__
 “As long as necessity is socially dreamed, dreaming will remain a social
 necessity.” — Guy Debord, _The Society of the Spectacle_ Aphorism 21
 
-In conjunction with the conference Beyond Spectacle organized by the Institute
-for the Humanities of Simon Fraser University, Cinevolution invites proposals
-from local, national and international interested persons to present projects
-for a residency to take place in **Vancouver, BC, from April 3rd to April 9th,
-2017.**
+In conjunction with the conference Spectacle of Fascism organized by the
+Institute for the Humanities of Simon Fraser University, Cinevolution invites
+proposals from local, national and international interested persons to present
+projects for a residency to take place in **Vancouver, BC, from April 3rd to
+April 9th, 2017.**
 
 The Situationist International (SI) was a movement of (anti-)artists, thinkers
 and activists who, between 1957 and 1972, produced films and publications that
