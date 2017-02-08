@@ -26,4 +26,4 @@ landscape.
 We are now accepting proposals for artistic projects. Please feel free to
 circulate widely our [Call for Proposals](./call-for-proposals).
 
-__*Submission deadline extended to February 10th!*__
+__*Submission deadline extended to 5pm, February 10th!*__
