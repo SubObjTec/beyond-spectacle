@@ -2,6 +2,8 @@
 title: Call for Proposals
 layout: default
 ---
+__*Submission deadline extended to February 10th!*__
+
 **OPEN CALL FOR PROPOSALS**
 
 “As long as necessity is socially dreamed, dreaming will remain a social
@@ -57,12 +59,14 @@ website, which will also serve as a platform to present contributions.
 
 **Submission**
 
+__*Submission deadline extended to February 10th!*__
+
 Submission should be email to
 [{{site.email}}](mailto:{{site.email}}) with the
 subject line: “Beyond Spectacle Residency”.
 
-Project proposals will be accepted until **February 7th, 2017.** Please include
-the following documentation (in French or English):
+Project proposals will be accepted until **February ~~7th~~ 10th, 2017.**
+Please include the following documentation (in French or English):
 
 1.  Applicant's name, e-mail address, telephone number, and mailing address.
 For collective projects, please include the aforementioned information for each
