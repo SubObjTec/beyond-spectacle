@@ -26,4 +26,16 @@ landscape.
 We are now accepting proposals for artistic projects. Please feel free to
 circulate widely our [Call for Proposals](./call-for-proposals).
 
-__*Submission deadline extended to February 10th!*__
+__*Submission are now closed. Thank you.*__
+
+### Free School
+
+Leading up to and following the Spectacle of Fascism conference and Beyond
+Spectacle residency, the Institute for the Humanities is proud to present
+Spectre of Fascism, a 'free school' of weekly speaking engagements with local
+volunteer scholars. In each week of this series a different speaker will
+undertake historical, theoretical, or diagnostic examination of fascism past and
+present, followed by a structured Q&A session and generous time for
+discussion, socializing, and organizing. Details will be publicized soon. These
+engagements will take place at UNIT/PITT Gallery and other venues, and will be
+free and open to the public.

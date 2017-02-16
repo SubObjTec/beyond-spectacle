@@ -2,7 +2,7 @@
 title: Call for Proposals
 layout: default
 ---
-__*Submission deadline extended to February 10th!*__
+__*Submission are now closed. Thank you.*__
 
 **OPEN CALL FOR PROPOSALS**
 
@@ -59,7 +59,7 @@ website, which will also serve as a platform to present contributions.
 
 **Submission**
 
-__*Submission deadline extended to February 10th!*__
+__*Submission are now closed. Thank you.*__
 
 Submission should be email to
 [{{site.email}}](mailto:{{site.email}}) with the
