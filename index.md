@@ -26,7 +26,7 @@ landscape.
 We are now accepting proposals for artistic projects. Please feel free to
 circulate widely our [Call for Proposals](./call-for-proposals).
 
-__*Submission are now closed. Thank you.*__
+__*Submissions are now closed. Thank you.*__
 
 ### Free School
 

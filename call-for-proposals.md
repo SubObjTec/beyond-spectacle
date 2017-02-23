@@ -2,7 +2,7 @@
 title: Call for Proposals
 layout: default
 ---
-__*Submission are now closed. Thank you.*__
+__*Submissions are now closed. Thank you.*__
 
 **OPEN CALL FOR PROPOSALS**
 
@@ -59,9 +59,9 @@ website, which will also serve as a platform to present contributions.
 
 **Submission**
 
-__*Submission are now closed. Thank you.*__
+__*Submissions are now closed. Thank you.*__
 
-Submission should be email to
+Submissions should be email to
 [{{site.email}}](mailto:{{site.email}}) with the
 subject line: “Beyond Spectacle Residency”.
 
