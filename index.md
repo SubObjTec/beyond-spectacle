@@ -36,6 +36,6 @@ Spectre of Fascism, a 'free school' of weekly speaking engagements with local
 volunteer scholars. In each week of this series a different speaker will
 undertake historical, theoretical, or diagnostic examination of fascism past and
 present, followed by a structured Q&A session and generous time for
-discussion, socializing, and organizing. Details will be publicized soon. These
-engagements will take place at UNIT/PITT Gallery and other venues, and will be
-free and open to the public.
+discussion, socializing, and organizing. These engagements will take place at
+UNIT/PITT Gallery and other venues, and will be free and open to the public.
+[Details here](./spectre-of-fascism).
